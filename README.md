@@ -3,7 +3,7 @@
 # Sobre o projeto
 Esse projeto foi feito através do curso de Java do [devsuperior](https://www.udemy.com/course/java-curso-completo/?gclid=EAIaIQobChMIsvX62pHygAMVQ8KRCh3VVgyWEAAYASAAEgLP0PD_BwE) como uma maneira de aprendizado ao Spring Boot 3.
 <br><br>
-Minhas notas podem ser encontradas [aqui]().
+Minhas notas podem ser encontradas [aqui](https://fflow021.notion.site/Services-Spring-Boot-e-JPA-Hibernate-eaa65b9e709841c184bbf5786f69524d?pvs=4).
 # Modelo Conceitual
 ![Domain model](https://github.com/Fflow021/assets/blob/main/assets/Screenshot_1.png)
 # Tecnologias utilizadas
